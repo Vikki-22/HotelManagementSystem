@@ -1,11 +1,11 @@
-# Hotel Management System 🏨
+ Hotel Management System 🏨
 
 A comprehensive and modular **Hotel Management System** developed using **Java (JDK 21), JDBC, and MySQL**.
 This project utilizes the **MVC (Model-View-Controller)** architecture to efficiently handle core hospitality workflows like room booking, customer check-ins, staff management, and billing through a clean console-based interface.
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 * **Customer Management:** Register and maintain complete details of hotel guests.
 * **Room Management:** Track room availability, types (AC, Non-AC, Deluxe), and pricing.
@@ -15,7 +15,7 @@ This project utilizes the **MVC (Model-View-Controller)** architecture to effici
 
 ---
 
-## 🛠️ Tech Used
+ 🛠️ Tech Used
 
 * **Core Java** (JavaSE-21)
 * **JDBC** (Java Database Connectivity)
@@ -24,7 +24,7 @@ This project utilizes the **MVC (Model-View-Controller)** architecture to effici
 
 ---
 
-## 📌 Concepts Covered
+ 📌 Concepts Covered
 
 * **MVC Design Pattern** (Separation of Controller, Entity, DAO, and View)
 * **DAO (Data Access Object) Pattern** for seamless CRUD operations
@@ -33,7 +33,7 @@ This project utilizes the **MVC (Model-View-Controller)** architecture to effici
 
 ---
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 * **Controller:** Directs application traffic and processes business rules (`CustomerController`, `RoomController`, etc.).
 * **Entity:** POJO data models representing hotel database schemas.
@@ -43,14 +43,14 @@ This project utilizes the **MVC (Model-View-Controller)** architecture to effici
 
 ---
 
-## 🚀 MYSQL Schemas and Connectivity(one table to another table)
+ 🚀 MYSQL Schemas and Connectivity(one table to another table)
 
 <img width="1078" height="858" alt="HotelRrservationSystem" src="https://github.com/user-attachments/assets/f012af55-2f79-4556-8159-644a93a6bc86" />
 
 
 ---
 
-## 🚀 Run Project
+ 🚀 Run Project
 
 1. **Configure Database:** Run your hotel management SQL script in MySQL to create necessary tables.
 2. **Add Driver:** Link the MySQL JDBC Connector jar to your project's **Referenced Libraries**.
@@ -58,6 +58,6 @@ This project utilizes the **MVC (Model-View-Controller)** architecture to effici
 
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
-* **Vikki Chandrawanshi**
+ **Vikki Chandrawanshi**
